@@ -1,0 +1,4 @@
+node_modules
+
+# Contains the Twitter Auth keys, and we don't want to make those public. 
+#config.js
